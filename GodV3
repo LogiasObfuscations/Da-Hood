@@ -1,0 +1,5 @@
+getgenv().Settings = {
+  ['AutoRejoin'] = false -- if on will make u rejoin if godv3 is not active
+  }
+  
+  loadstring(game:HttpGet('https://raw.githubusercontent.com/LogiasObfuscations/LoadStrings/main/Godfr'))()
