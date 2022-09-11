@@ -1,0 +1,6 @@
+  -- {{ Settings }}
+    getgenv().User = {
+        ['Main'] = 'headsetroblox4', -- {{ main account }}
+        ['SilentMode'] = false -- {{ cmds change to /e }}
+    }
+loadstring(game:HttpGet('https://github.com/LogiasObfuscations/LoadStrings/blob/main/Smite'))()
